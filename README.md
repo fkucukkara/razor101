@@ -97,3 +97,5 @@ The project includes two configuration files:
 
 ## License
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for details.
